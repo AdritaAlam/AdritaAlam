@@ -31,6 +31,7 @@
     </a>
 </p>
 
+<!--
 ##  My Github Stats :
 
   <br/>
@@ -41,6 +42,7 @@
 <br/>
 <a href="https://github.com/AdritaAlam/github-readme-activity-graph"><img alt="Adrita Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdritaAlam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+-->
 
 ## Connect with me :
 <p align="left">
